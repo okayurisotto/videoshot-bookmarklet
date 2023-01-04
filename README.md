@@ -1,0 +1,2 @@
+# videoshot-bookmarklet
+Webページの動画のスクリーンショットを撮影するブックマークレット
